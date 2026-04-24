@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinandan Goyal</h1>
+<h1 align="center">Hi 👋, I'm Gopesh Goyal</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;Software+Engineer;AI+Agents+Builder;Cloud+Engineer" />
@@ -7,11 +7,11 @@
 ---
 
 ## 🌟 About Me
-- 🎓 CSE Student @ Chitkara University (CGPA: 9.12)
+- 🎓 CSE Student @ Chitkara University
 - 💻 Software Engineer | Web Developer | AI Engineer | Cloud Engineer
 - 🤖 Passionate about AI, ML & Intelligent Systems
 - 🚀 Building Full Stack + AI-powered applications
-- 📫 Email: **abhinandangoyal1223@gmail.com**
+- 📫 Email: **gopeshgoya@gmail.com**
 
 ---
 
@@ -65,18 +65,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanGoyal2209&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanGoyal2209&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GopeshGoyal12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GopeshGoyal12&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔗 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinandan-goyal22/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:abhinandangoyal1223@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/gopeshgoyall/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:gopeshgoya@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-⭐ From Abhinandan Goyal 🚀
+⭐ From Gopesh Goyal 🚀
